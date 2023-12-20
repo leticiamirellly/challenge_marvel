@@ -1,6 +1,5 @@
 # README #
 
-This project is the result of the challenge proposed by Printi for the front-end developer.
 the project uses the Marvel API to list the data, you need an account to access it 
 [https://developer.marvel.com/account](https://developer.marvel.com/account)
 This is the interactive documentation to explore explore the full context [https://developer.marvel.com/docs](https://developer.marvel.com/docs)
